@@ -31,7 +31,7 @@ The Asset Tracking Management System provides a centralized platform for organiz
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com:nakib-uddin/Asset_tracking_mgt.git
+    git clone https://github.com:nakib-uddin/Asset_tracker.git
     ```
 
 2. **Navigate to the project directory:**
